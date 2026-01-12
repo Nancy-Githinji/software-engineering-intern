@@ -13,6 +13,7 @@ This repository contains my learning progress, practice exercises, and small pro
 - Git & GitHub
 - Python
 - Java
+- c++
 - HTML & CSS
 - VS Code
 
